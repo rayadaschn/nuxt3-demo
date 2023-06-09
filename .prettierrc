@@ -1,0 +1,9 @@
+{
+ "endOfLine": "lf",
+ "singleQuote": true,
+ "printWidth": 150,
+ "tabWidth": 2,
+ "indentStyle": "space",
+ "bracketSpacing": true,
+ "useTabs": true
+}
